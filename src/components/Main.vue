@@ -42,8 +42,6 @@ export default {
 
 <template>
   <Title/>
-  <Carousel/>
-  <Video/>
   <Abstract/>
   <Markdown/>
   <Latex/>
