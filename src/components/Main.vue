@@ -1,6 +1,7 @@
 <script>
 import Title from './sections/Title.vue'
 import Abstract from './sections/Abstract.vue'
+import Framework from './sections/Framework.vue'
 import Markdown from './sections/Markdown.vue'
 import BibTeX from './sections/BibTeX.vue'
 import Carousel from './sections/Carousel.vue'
@@ -21,6 +22,7 @@ export default {
   components: {
     Title,
     Abstract,
+    Framework,
     Markdown,
     BibTeX,
     Carousel,
@@ -43,17 +45,7 @@ export default {
 <template>
   <Title/>
   <Abstract/>
-  <Markdown/>
-  <Latex/>
+  <Framework/>
   <Table/>
-  <Collapse/>
-  <Echart/>
-  <Model3D/>
-  <GaussianSplats3D/>
-  <SeletionForComparison/>
-  <ImageSliderInner/>
-  <ImageSlider/>
-  <ImageSelector/>
   <BibTeX/>
-  <Comment/>
 </template>

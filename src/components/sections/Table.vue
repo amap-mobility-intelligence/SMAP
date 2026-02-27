@@ -1,31 +1,25 @@
 <script lang="ts" setup>
 
-// 表格数据
-const tableData = [
-{
-    model: 'Model A',
-    params: '10 B',
-    value_a: '123',
-    value_b: '321',
-},
-{
-    model: 'Model B',
-    params: '30 B',
-    value_a: '456',
-    value_b: '654',
-},
-{
-    model: 'Model C',
-    params: '20 B',
-    value_a: '789',
-    value_b: '987',
-},
-{
-    model: 'Model D',
-    params: '5 B',
-    value_a: '100',
-    value_b: '200',
-},
+// 实验结果图片数据
+const experimentResults = [
+  {
+    name: 'Table 1',
+    label: 'Main Results',
+    title: 'Table 1. Main Results of Different Methods on Our Dataset',
+    image: './icon/Rusult_1.png',
+  },
+  {
+    name: 'Table 2',
+    label: 'Ablation: Multimodal',
+    title: 'Table 2. Ablation Study on Multimodal Input',
+    image: './icon/Result_2.png',
+  },
+  {
+    name: 'Table 3',
+    label: 'Ablation: HDPO',
+    title: 'Table 3. Ablation Study on HDPO Sample Construction',
+    image: './icon/Result_3.png',
+  },
 ]
 </script>
 
@@ -34,46 +28,36 @@ const tableData = [
         <el-divider />
 
         <el-row justify="center">
-            <h1 class="section-title">More Results</h1>
+            <h1 class="section-title">Experiments</h1>
         </el-row>
         
-        <!-- 数据表格 -->
+        <!-- 实验结果展示 -->
         <el-row justify="center">
-            <el-col :xs="24" :sm="20" :md="16" :lg="12" :xl="12">
+            <el-col :xs="24" :sm="22" :md="20" :lg="18" :xl="18">
 
                 <!-- 卡片 -->
                 <el-card class="card">
 
-                    <!-- 默认tab -->
-                    <el-tabs class="demo-tabs" model-value="Method A">
+                    <!-- Tab 切换 -->
+                    <el-tabs class="demo-tabs" model-value="Table 1">
 
-                    <!-- 第一个tab -->
-                    <el-tab-pane label="Method A" name="Method A">
-
-                        <!-- 表格数据 -->
-                        <el-table 
-                            :data="tableData"
-                            :default-sort="{ prop: 'value_b', order: 'descending' }"
-                            scrollbar-always-on
+                        <el-tab-pane 
+                            v-for="exp in experimentResults" 
+                            :key="exp.name"
+                            :label="exp.label" 
+                            :name="exp.name"
                         >
-                            <el-table-column prop="model" label="Model" width="100" sortable/>
-                            <el-table-column prop="params" label="#Params" min-width="120" sortable/>
-                            <el-table-column prop="value_a" label="Value A" min-width="120" sortable/>
-                            <el-table-column prop="value_b" label="Value B" min-width="120" sortable/>
-                        </el-table>
-                    </el-tab-pane>
+                            <!-- 表格标题 -->
+                            <h3 class="table-title">{{ exp.title }}</h3>
+                            
+                            <!-- 结果图片 -->
+                            <el-image 
+                                :src="exp.image" 
+                                fit="contain"
+                                class="result-image"
+                            />
+                        </el-tab-pane>
 
-                    <el-tab-pane label="Method B" name="Method B">
-                        Method B
-                    </el-tab-pane>
-
-                    <el-tab-pane label="Method C" name="Method C">
-                        Method C
-                    </el-tab-pane>
-
-                    <el-tab-pane label="Method D" name="Method D">
-                        Method D
-                    </el-tab-pane>
                     </el-tabs>
 
                 </el-card>
@@ -86,6 +70,19 @@ const tableData = [
 <style scoped>
 .card {
     margin-top: 20px;
+}
+
+.table-title {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    color: #333;
+}
+
+.result-image {
+    width: 100%;
+    border-radius: 4px;
 }
 </style>
   

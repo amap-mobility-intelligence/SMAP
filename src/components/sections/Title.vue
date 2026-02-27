@@ -25,43 +25,36 @@ const btn_color = '#444444'
 const authors = [
   {
     name: "Wenjie Zhang",
-    icon: "",
-    homepage: "https://junyaohu.github.io/",
+    homepage: "https://wenj-zhang.github.io",
     address_flag: "1,2,*,†"
   },
   {
     name: "Chen Yang",
-    icon: "",
     homepage: "",
     address_flag: "2,†"
   },
   {
     name: "Xin Lu",
-    icon: "",
     homepage: "",
     address_flag: "2"
   },
     {
     name: "Zhen Wang",
-    icon: "",
     homepage: "",
     address_flag: "2"
   },  
   {
     name: "Yue Liu",
-    icon: "",
     homepage: "",
     address_flag: "2,‡"
   },
   {
     name: "Bobo Xi",
-    icon: "",
-    homepage: "",
+    homepage: "https://b-xi.github.io",
     address_flag: "1,§"
   },
   {
     name: "Pengbo Zhang",
-    icon: "",
     homepage: "",
     address_flag: "2,§"
   },
@@ -72,14 +65,12 @@ const addresses = [
   {
     address_flag: "1",
     name: "Xidian University",
-    icon: "./icon/home.png",
-    homepage: ""
+    icon: "./icon/Xidian.png",
   },
   {
     address_flag: "2",
     name: "Amap, Alibaba",
-    icon: "./icon/ikun.avif",
-    homepage: ""
+    icon: "./icon/Amap.png",
   },
 ]
 
@@ -107,7 +98,7 @@ const buttons = [
   {
     disabled: false,
     name: "Code",
-    link: "",
+    link: "https://github.com/WenJ-Zhang/CVPR_2026_SMAP_Code",
     component: Files,
   },
   {
@@ -118,7 +109,7 @@ const buttons = [
   {
     disabled: false,
     name: "Video",
-    link: "",
+    link: '/SMAP/video/Can_AI_See_the_World_.mp4',
     component: Film,
   },
 ]
