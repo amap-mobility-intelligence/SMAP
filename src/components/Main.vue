@@ -18,6 +18,7 @@ import Latex from './sections/Latex.vue'
 import Model3D from './sections/Model3D.vue'
 import GaussianSplats3D from './sections/GaussianSplats3D.vue'
 import Dataset from './sections/Dataset.vue'
+import StudyCase from './sections/StudyCase.vue'
 
 export default {
   components: {
@@ -39,7 +40,8 @@ export default {
     Latex,
     Model3D,
     GaussianSplats3D,
-    Dataset
+    Dataset,
+    StudyCase
   }
 }
 </script>
@@ -50,5 +52,5 @@ export default {
   <Framework/>
   <Dataset/>
   <Table/>
-  <BibTeX/>
+  <StudyCase/>
 </template>

@@ -66,11 +66,13 @@ const addresses = [
     address_flag: "1",
     name: "Xidian University",
     icon: "./icon/Xidian.png",
+    homepage: "https://www.xidian.edu.cn",
   },
   {
     address_flag: "2",
     name: "Amap, Alibaba",
     icon: "./icon/Amap.png",
+    homepage: "https://www.amap.com",
   },
 ]
 
@@ -136,14 +138,24 @@ const buttons = [
 
     <!-- 作者名单 -->
     <el-row justify="center">
-      <a :href=author.homepage v-for="author in authors">
-        <el-button class="title-button" type="primary" text>
-          <el-avatar v-if="author.icon" :size="40" :src="author.icon" />
-          <span class="author">
-            {{ author.name }}<sup v-if="author.address_flag" class="name_sup">{{ author.address_flag }}</sup>
-          </span>
-        </el-button>
-      </a>
+      <template v-for="(author, index) in authors" :key="index">
+        <a v-if="author.homepage" :href="author.homepage">
+          <el-button class="title-button" type="primary" text>
+            <el-avatar v-if="(author as any).icon" :size="40" :src="(author as any).icon" />
+            <span class="author">
+              {{ author.name }}<sup v-if="author.address_flag" class="name_sup">{{ author.address_flag }}</sup>
+            </span>
+          </el-button>
+        </a>
+        <span v-else class="author-wrapper" style="cursor: default;">
+          <el-button class="title-button" type="primary" text>
+            <el-avatar v-if="(author as any).icon" :size="40" :src="(author as any).icon" />
+            <span class="author">
+              {{ author.name }}<sup v-if="author.address_flag" class="name_sup">{{ author.address_flag }}</sup>
+            </span>
+          </el-button>
+        </span>
+      </template>
     </el-row>
 
     <!-- 地址名单 -->

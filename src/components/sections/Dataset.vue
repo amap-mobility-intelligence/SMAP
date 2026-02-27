@@ -56,7 +56,7 @@ const hasMorePOI = (poiList) => {
     <el-divider />
 
     <el-row justify="center">
-      <h1 class="section-title">Dataset</h1>
+      <h1 class="section-title">Dataset Demo</h1>
     </el-row>
 
     <!-- 数据展示区域 -->
@@ -82,10 +82,10 @@ const hasMorePOI = (poiList) => {
 
             <!-- POI Info 部分 -->
             <div class="poi-section">
-              <h3 class="section-label">Retrieved POIs (Top 3):</h3>
-              <div class="poi-list">
+              <h3 class="section-label">Retrieved POIs:</h3>
+              <div class="poi-list-scrollable">
                 <div 
-                  v-for="(poi, index) in formatPOIList(currentData.poi_info_list)" 
+                  v-for="(poi, index) in currentData.poi_info_list" 
                   :key="index"
                   class="poi-item"
                 >
@@ -107,9 +107,6 @@ const hasMorePOI = (poiList) => {
                       {{ tag }}
                     </el-tag>
                   </div>
-                </div>
-                <div v-if="hasMorePOI(currentData.poi_info_list)" class="more-indicator">
-                  ... ({{ currentData.poi_info_list.length - 3 }} more POIs)
                 </div>
               </div>
             </div>
@@ -166,20 +163,25 @@ const hasMorePOI = (poiList) => {
 }
 
 .dataset-image {
-  max-width: 100%;
-  max-height: 400px;
+  width: 100%;
+  height: auto;
+  max-height: 500px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  object-fit: contain;
 }
 
 .poi-section {
   margin-top: 20px;
 }
 
-.poi-list {
+.poi-list-scrollable {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 8px;
 }
 
 .poi-item {
@@ -232,12 +234,23 @@ const hasMorePOI = (poiList) => {
   margin: 0;
 }
 
-.more-indicator {
-  text-align: center;
-  color: #999;
-  font-style: italic;
-  padding: 10px;
-  font-size: 14px;
+/* 自定义滚动条样式 */
+.poi-list-scrollable::-webkit-scrollbar {
+  width: 6px;
+}
+
+.poi-list-scrollable::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+}
+
+.poi-list-scrollable::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 3px;
+}
+
+.poi-list-scrollable::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
 }
 
 .index-indicator {
