@@ -109,7 +109,7 @@ const buttons = [
   {
     disabled: false,
     name: "Video",
-    link: '/SMAP/video/Can_AI_See_the_World_.mp4',
+    link: '/video/Can_AI_See_the_World_.mp4',
     component: Film,
   },
 ]

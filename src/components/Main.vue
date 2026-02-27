@@ -17,6 +17,7 @@ import Comment from './sections/Comment.vue'
 import Latex from './sections/Latex.vue'
 import Model3D from './sections/Model3D.vue'
 import GaussianSplats3D from './sections/GaussianSplats3D.vue'
+import Dataset from './sections/Dataset.vue'
 
 export default {
   components: {
@@ -37,7 +38,8 @@ export default {
     Comment,
     Latex,
     Model3D,
-    GaussianSplats3D
+    GaussianSplats3D,
+    Dataset
   }
 }
 </script>
@@ -46,6 +48,7 @@ export default {
   <Title/>
   <Abstract/>
   <Framework/>
+  <Dataset/>
   <Table/>
   <BibTeX/>
 </template>
