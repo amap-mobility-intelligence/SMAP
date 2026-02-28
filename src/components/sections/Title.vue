@@ -6,8 +6,9 @@ import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@eleme
 // logo地址，没有则置为""即可
 const logo = ""
 
-// 标题
-const title = 'SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment'
+// 标题（图标将插入在 SMAP 和冒号之间）
+const titleBefore = 'SMAP'
+const titleAfter = ': Semantic Route Planning with Map-Grounded Multimodal Alignment'
 
 // 标题颜色
 const title_color = '#000000'
@@ -130,7 +131,9 @@ const buttons = [
     <el-row justify="center">
       <el-col :span="20">
         <h1 class="paper-title">
-          <span v-if="title" :style="{color:title_color}"> {{ title }}</span>
+          <span v-if="titleBefore" :style="{color:title_color}">{{ titleBefore }}</span>
+          <img src="/icon/tour-guide.png" class="title-icon" alt="tour-guide" />
+          <span v-if="titleAfter" :style="{color:title_color}">{{ titleAfter }}</span>
           <span v-if="title_supp" :style="{color:title_supp_color}"> {{ title_supp }}</span>
         </h1>
       </el-col>
@@ -295,6 +298,17 @@ const buttons = [
   border-radius: 50%;
   box-shadow: #ced3dc 0px 0px 3px 2px;
   margin-top: 40px;
+}
+
+/* 标题图标 */
+.title-icon {
+  width: 42px;
+  height: 42px;
+  vertical-align: baseline;
+  margin-left: 2px;
+  margin-right: 2px;
+  position: relative;
+  top: 4px;
 }
 
 /* 手机端链接样式处理 */
