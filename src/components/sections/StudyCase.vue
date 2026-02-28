@@ -10,14 +10,14 @@ const studyCases = ref([
     query: '',
     responses: [
       {
-        name: 'Chosen',
-        mapImage: './study_case/preference_pair_example/chosen.jpg',
+        name: 'Rejected',
+        mapImage: './study_case/preference_pair_example/reject.jpg',
         think: '',
         answer: ''
       },
       {
-        name: 'Rejected',
-        mapImage: './study_case/preference_pair_example/reject.jpg',
+        name: 'Chosen',
+        mapImage: './study_case/preference_pair_example/chosen.jpg',
         think: '',
         answer: ''
       }
@@ -53,14 +53,14 @@ const loadStudyCases = async () => {
   isLoading.value = true;
   try {
     // 加载偏好对示例
-    const prefChosen = await fetch('./study_case/preference_pair_example/chosen.json').then(r => r.json());
     const prefReject = await fetch('./study_case/preference_pair_example/reject.json').then(r => r.json());
+    const prefChosen = await fetch('./study_case/preference_pair_example/chosen.json').then(r => r.json());
     
     studyCases.value[0].query = 'Qinzhou retro film shooting route';
-    studyCases.value[0].responses[0].think = prefChosen.think;
-    studyCases.value[0].responses[0].answer = prefChosen.answer;
-    studyCases.value[0].responses[1].think = prefReject.think;
-    studyCases.value[0].responses[1].answer = prefReject.answer;
+    studyCases.value[0].responses[0].think = prefReject.think;
+    studyCases.value[0].responses[0].answer = prefReject.answer;
+    studyCases.value[0].responses[1].think = prefChosen.think;
+    studyCases.value[0].responses[1].answer = prefChosen.answer;
     
     // 加载模型对比示例
     const respSFT = await fetch('./study_case/response_example/sft.json').then(r => r.json());
@@ -165,18 +165,18 @@ const formatThink = (text) => {
                     <div class="text-content">
                       <div class="think-display">
                         <span class="mini-label">Thinking Process:</span>
-                        <div class="think-box">{{ formatThink(currentCase.responses[1].think) }}</div>
+                        <div class="think-box">{{ formatThink(currentCase.responses[0].think) }}</div>
                       </div>
                       <div class="answer-display">
                         <span class="mini-label">Final Answer:</span>
-                        <div class="answer-box">{{ currentCase.responses[1].answer }}</div>
+                        <div class="answer-box">{{ currentCase.responses[0].answer }}</div>
                       </div>
                     </div>
                   </el-col>
                   <el-col :span="12">
                     <div class="image-content">
                       <div class="image-label">Generated Route:</div>
-                      <img :src="currentCase.responses[1].mapImage" class="comparison-image" />
+                      <img :src="currentCase.responses[0].mapImage" class="comparison-image" />
                     </div>
                   </el-col>
                 </el-row>
@@ -193,18 +193,18 @@ const formatThink = (text) => {
                     <div class="text-content">
                       <div class="think-display">
                         <span class="mini-label">Thinking Process:</span>
-                        <div class="think-box">{{ formatThink(currentCase.responses[0].think) }}</div>
+                        <div class="think-box">{{ formatThink(currentCase.responses[1].think) }}</div>
                       </div>
                       <div class="answer-display">
                         <span class="mini-label">Final Answer:</span>
-                        <div class="answer-box">{{ currentCase.responses[0].answer }}</div>
+                        <div class="answer-box">{{ currentCase.responses[1].answer }}</div>
                       </div>
                     </div>
                   </el-col>
                   <el-col :span="12">
                     <div class="image-content">
                       <div class="image-label">Generated Route:</div>
-                      <img :src="currentCase.responses[0].mapImage" class="comparison-image" />
+                      <img :src="currentCase.responses[1].mapImage" class="comparison-image" />
                     </div>
                   </el-col>
                 </el-row>
