@@ -101,7 +101,7 @@ const buttons = [
   {
     disabled: false,
     name: "Code",
-    link: "https://github.com/WenJ-Zhang/CVPR_2026_SMAP_Code",
+    link: "https://github.com/amap-mobility-intelligence/CVPR_2026_SMAP_Code",
     component: Files,
   },
   {
