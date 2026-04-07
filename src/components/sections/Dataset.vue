@@ -8,9 +8,16 @@ const isLoading = ref(true);
 // 加载数据集信息
 const loadDataset = async () => {
   try {
-    const response = await fetch('./data_demo/query_info.json');
+    const response = await fetch('./data_demo/mm-route-demo.json');
     const data = await response.json();
     datasetData.value = data;
+    
+    // 修正图片路径
+    datasetData.value = datasetData.value.map(item => ({
+      ...item,
+      image_path: item.image_path ? `./data_demo/${item.image_path}` : ''
+    }));
+    
     isLoading.value = false;
   } catch (error) {
     console.error('Failed to load dataset:', error);
@@ -24,13 +31,7 @@ onMounted(() => {
 // 当前展示的数据
 const currentData = computed(() => {
   if (datasetData.value.length === 0) return null;
-  const originalData = datasetData.value[currentIndex.value];
-  // 创建副本并修正图片路径
-  const data = { ...originalData };
-  if (data && data.image_path) {
-    data.image_path = data.image_path.replace('demo/images', 'data_demo/images');
-  }
-  return data;
+  return datasetData.value[currentIndex.value];
 });
 
 // 处理滑块变化

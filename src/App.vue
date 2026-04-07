@@ -1,12 +1,13 @@
 <script>
 import Main from './components/Main.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   components: {
     Main,
+    Footer,
   }
 }
-
 </script>
 
 <template>
@@ -14,6 +15,7 @@ export default {
       
       <el-container>
         <el-main><Main/></el-main>
+        <el-footer><Footer/></el-footer>
       </el-container>
       
       <!-- 回到顶部 -->
