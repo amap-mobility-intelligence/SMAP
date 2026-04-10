@@ -1,1086 +1,5 @@
 [
     {
-        "query": "Tour Route of Songshan Lake Scenic Area",
-        "poi_info_list": [
-            {
-                "name": "Songshan Lake Scenic Area - Songshan Lake Sunshine Beach",
-                "coor": "113.887077,22.897256",
-                "tag": [
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Free Attractions",
-                    "family"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Songshan Lake Library",
-                "coor": "113.885844,22.931136",
-                "tag": [
-                    "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery",
-                    "Child-Friendly",
-                    "Free and Fun"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Dongguan University of Technology",
-                "coor": "113.874533,22.902841",
-                "tag": [
-                    "citywalk",
-                    "Learning Atmosphere",
-                    "student",
-                    "Employment Advantages"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Fishing at the Thatched Cottage",
-                "coor": "113.883819,22.899953",
-                "tag": [
-                    "Parent-child",
-                    "Fishing",
-                    "Pet Friendly",
-                    "friend"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Vanke Jinyu Plaza",
-                "coor": "113.917749,22.966898",
-                "tag": [
-                    "Loft Design",
-                    "Leisure and Entertainment",
-                    "Metro Property",
-                    "family"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Peach Blossom Island",
-                "coor": "113.89264,22.926832",
-                "tag": [
-                    "Embrace Nature",
-                    "Fewer People, Beautiful Scenery",
-                    "Free and Fun",
-                    "family"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Songshan Lake Jafun City",
-                "coor": "113.866404,22.900404",
-                "tag": [
-                    "citywalk",
-                    "Theme Performance",
-                    "Parent-child",
-                    "The night view is enchanting."
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Songshan Lake Scenic Area - Misty Rain over Song Lake",
-                "coor": "113.890634,22.915318",
-                "tag": [
-                    "Parent-child",
-                    "Embrace Nature",
-                    "Free Admission",
-                    "Suitable for all seasons"
-                ],
-                "duration": "3-6 hours"
-            },
-            {
-                "name": "Vanke Li by the Lake",
-                "coor": "113.902243,22.884713",
-                "tag": [
-                    "Theme Performance",
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Leisure and Relaxation"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Yuehe Lake Park",
-                "coor": "113.894367,22.967271",
-                "tag": [
-                    "Convenient Transportation",
-                    "Parent-child",
-                    "Embrace Nature",
-                    "Free Admission"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Songshan Lake Scenic Area",
-                "coor": "113.881514,22.894163",
-                "tag": [
-                    "Parent-child",
-                    "Free Admission",
-                    "Team Building",
-                    "The night view is enchanting."
-                ],
-                "duration": "3-6 hours"
-            },
-            {
-                "name": "Songhu Island Campsite",
-                "coor": "113.891782,22.900995",
-                "tag": [
-                    "Parent-child",
-                    "Free Parking",
-                    "Fishing",
-                    "Pet Friendly"
-                ],
-                "duration": "4-6 hours"
-            },
-            {
-                "name": "ULAND Songshan Lake Cultural and Art District",
-                "coor": "113.886109,22.922034",
-                "tag": [
-                    "Citywalk",
-                    "Theme Performance",
-                    "Parent-child",
-                    "Parent-Child Study Tour"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Ayi Four Seasons Farm",
-                "coor": "113.915988,22.907584",
-                "tag": [
-                    "Convenient transportation",
-                    "Leisure and Relaxation",
-                    "Team Building",
-                    "family"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Tabebuia Chrysantha Forest",
-                "coor": "113.888886,22.887258",
-                "tag": [
-                    "Parent-child",
-                    "Free and Fun",
-                    "Seasonal Limited",
-                    "Couple"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Dongguan Polytechnic",
-                "coor": "113.856794,22.897559",
-                "tag": [
-                    "Leisure Walk",
-                    "Urban Exploration",
-                    "Easy Parking",
-                    "student"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Songshan Lake Central Park, Dongguan",
-                "coor": "113.87931,22.929985",
-                "tag": [
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Free to Play",
-                    "Team Building"
-                ],
-                "duration": "0.5-1 hour"
-            },
-            {
-                "name": "Songmushan Cultural Square",
-                "coor": "113.912025,22.897581",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Fitness Enthusiast",
-                    "Free and Fun"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Zhongshuge (ULAND Songshan Lake Cultural and Art Street District Store)",
-                "coor": "113.886123,22.92087",
-                "tag": [
-                    "Parent-Child Study Tour",
-                    "Leisure and Relaxation",
-                    "Free Admission",
-                    "student"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Li Beiling Square",
-                "coor": "113.906739,22.948614",
-                "tag": [
-                    "citywalk",
-                    "Parent-Child Study Tour",
-                    "Parking Difficulty",
-                    "Free and Fun"
-                ],
-                "duration": "1-2 hours"
-            }
-        ],
-        "image_path": "0.png"
-    },
-    {
-        "query": "Linzhang Cultural Leisure Citywalk Route",
-        "poi_info_list": [
-            {
-                "name": "Ye Ling Park",
-                "coor": "114.620731,36.329074",
-                "tag": [
-                    "Free Admission",
-                    "student",
-                    "family",
-                    "Stroll"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Linzhang Seven Lakes",
-                "coor": "114.590974,36.323391",
-                "tag": [
-                    "Parent-Child Activities",
-                    "Leisure Walk",
-                    "Free Admission",
-                    "The night view is enchanting."
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Three Cao Garden",
-                "coor": "114.581755,36.324043",
-                "tag": [
-                    "Leisure Activities",
-                    "Free Admission",
-                    "family",
-                    "Stroll"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Xingye Cinema City",
-                "coor": "114.592396,36.326593",
-                "tag": [
-                    "Free 3D Glasses",
-                    "Easy parking",
-                    "family",
-                    "IMAX Theater"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Copper Sparrow Terrace Ruins Park",
-                "coor": "114.406127,36.275124",
-                "tag": [
-                    "History Enthusiast",
-                    "Historical Site",
-                    "family",
-                    "Cultural Experience"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Linzhang County Culture and Art Center",
-                "coor": "114.592138,36.327419",
-                "tag": [
-                    "family",
-                    "Exhibition Visit",
-                    "Cultural Experience",
-                    "friend"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Beizhang Village Folong Temple",
-                "coor": "114.621285,36.30121",
-                "tag": [
-                    "Leisure and Relaxation",
-                    "Time-honored",
-                    "family",
-                    "Beautiful Architecture"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Cao Cao's Horse Tethering Tree",
-                "coor": "114.414769,36.226967",
-                "tag": [
-                    "Millennium Ancient Tree",
-                    "Historical Exploration",
-                    "History Enthusiast",
-                    "Cao Cao Ties His Horse"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Sunlight Temple",
-                "coor": "114.617339,36.346846",
-                "tag": [
-                    "Buddhist Holy Land",
-                    "Historical Building",
-                    "Urban Exploration",
-                    "family"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Bronze Sparrow Terrace",
-                "coor": "114.406466,36.27444",
-                "tag": [],
-                "duration": "0-0 hours"
-            },
-            {
-                "name": "Yecheng Ruins Eastern Wei and Northern Qi Palace City Area",
-                "coor": "114.417796,36.261205",
-                "tag": [
-                    "Six Dynasties Ancient Capital",
-                    "Historical Exploration",
-                    "History and Culture Enthusiast",
-                    "Cultural Experience"
-                ],
-                "duration": "3 hours"
-            },
-            {
-                "name": "Guiguzi Ancestral Hall",
-                "coor": "114.451036,36.33635",
-                "tag": [
-                    "Historical Heritage",
-                    "History and Culture Enthusiast",
-                    "student",
-                    "Cultural Experience"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Mao Zedong Statue Square",
-                "coor": "114.637583,36.159461",
-                "tag": [
-                    "Great Person Memorial",
-                    "student",
-                    "family",
-                    "Photo for Memory"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Ruins of the Grand Zhuangyan Temple of Northern Qi",
-                "coor": "114.430412,36.225948",
-                "tag": [
-                    "History Enthusiast",
-                    "Historical Study",
-                    "Cultural Exploration",
-                    "Royal Monastery"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Thousand Buddha Pagoda",
-                "coor": "114.590522,36.322886",
-                "tag": [
-                    "History and Culture",
-                    "Night View观赏",
-                    "Photography Enthusiast",
-                    "Cultural Experience"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Yecheng National Archaeological Site Park",
-                "coor": "114.421786,36.286754",
-                "tag": [
-                    "Six Dynasties Ancient Capital",
-                    "Historical Heritage",
-                    "History Enthusiast",
-                    "Urban Exploration"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Hometown of Guiguzi",
-                "coor": "114.450895,36.336155",
-                "tag": [
-                    "Free Attractions",
-                    "Historical Heritage",
-                    "History Enthusiast",
-                    "Cultural Experience"
-                ],
-                "duration": "2 hours"
-            },
-            {
-                "name": "Xinhe Commercial Building (Linzhang Store)",
-                "coor": "114.59825,36.327168",
-                "tag": [
-                    "One-stop",
-                    "Casual",
-                    "Easy parking",
-                    "Entertainment"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Ye City Museum",
-                "coor": "114.420232,36.288664",
-                "tag": [
-                    "Buddha Statue Exhibition",
-                    "Free Admission",
-                    "History Enthusiast",
-                    "Historical Study"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "A Dream of Millet",
-                "coor": "114.397244,36.284816",
-                "tag": [
-                    "family",
-                    "Couple",
-                    "Cultural Experience",
-                    "friend"
-                ],
-                "duration": "0-1 hour"
-            }
-        ],
-        "image_path": "1.png"
-    },
-    {
-        "query": "How many days should be planned for a self-driving trip around Fuzhou with parents?",
-        "poi_info_list": [
-            {
-                "name": "Yantai Mountain Park",
-                "coor": "119.315527,26.044964",
-                "tag": [
-                    "citywalk",
-                    "International Architecture",
-                    "Pavilions and Towers",
-                    "Parent-child"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Three Lanes and Seven Alleys",
-                "coor": "119.296623,26.081958",
-                "tag": [
-                    "AR Guide",
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Leisure Activities"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Pingtan Beibu Bay Ecological Corridor",
-                "coor": "119.774682,25.656684",
-                "tag": [
-                    "Parent-child",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Attractions",
-                    "One-way street"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Pingtan Island",
-                "coor": "119.720434,25.461402",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Attractions"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Shangxiahang Historical and Cultural District",
-                "coor": "119.304687,26.052103",
-                "tag": [
-                    "Fusion of Chinese and Western Elements",
-                    "Parent-child",
-                    "Free Admission",
-                    "Photogenic Spot"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Pingtan International Tourism Island · Xianren Well",
-                "coor": "119.870136,25.549806",
-                "tag": [
-                    "3A Scenic Area",
-                    "East Sea Wonderland",
-                    "Parent-child",
-                    "Nature's Masterpiece"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Baishuiyang Scenic Area",
-                "coor": "119.077194,27.091849",
-                "tag": [
-                    "5A Scenic Area",
-                    "Parent-child",
-                    "Surfing",
-                    "Geological Wonders"
-                ],
-                "duration": "4-6 hours"
-            },
-            {
-                "name": "Beiqi Tidal Flats",
-                "coor": "120.064868,26.877711",
-                "tag": [
-                    "Free Attractions",
-                    "family",
-                    "Off-the-beaten-path attractions",
-                    "Couple"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Four Islands of Ruins",
-                "coor": "120.351807,26.695416",
-                "tag": [
-                    "Primal Island",
-                    "Off-the-beaten-path attractions",
-                    "Outdoor Adventurer",
-                    "Photography Enthusiast"
-                ],
-                "duration": "4-5 hours"
-            },
-            {
-                "name": "Gaur Beach",
-                "coor": "120.09809,26.751283",
-                "tag": [
-                    "Parent-child",
-                    "Free",
-                    "family",
-                    "Couple"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Grand Jing Beach Scenic Area",
-                "coor": "120.109739,26.696932",
-                "tag": [
-                    "Parent-child",
-                    "Free Entry",
-                    "Short trips",
-                    "family"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Mount Taimu National Scenic Area",
-                "coor": "120.184719,27.124142",
-                "tag": [
-                    "5A Scenic Area",
-                    "World Geopark",
-                    "Mist Enveloped",
-                    "family"
-                ],
-                "duration": "5-6 hours"
-            },
-            {
-                "name": "Xinghua Prefecture Historical and Cultural District",
-                "coor": "119.015585,25.432759",
-                "tag": [
-                    "Leisure Walk",
-                    "Free Admission",
-                    "Ancient Architectural Complex",
-                    "The night view is enchanting."
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Nanshan Guanghua Temple",
-                "coor": "118.98896,25.425153",
-                "tag": [
-                    "Buddhist",
-                    "Free Admission",
-                    "National Key Temple",
-                    "Ancient Temple"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Meizhou Island National Tourist Resort",
-                "coor": "119.128483,25.063753",
-                "tag": [
-                    "5A Scenic Area",
-                    "Day Trip",
-                    "Fewer People, Beautiful Scenery",
-                    "Believer"
-                ],
-                "duration": "1-2 days"
-            },
-            {
-                "name": "Southern Shaolin Temple",
-                "coor": "119.041044,25.539635",
-                "tag": [
-                    "Free Attractions",
-                    "student",
-                    "family",
-                    "Cultural Experience"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Jiulihu Scenic Area",
-                "coor": "118.821591,25.460157",
-                "tag": [
-                    "family",
-                    "Photo Check-in",
-                    "Cultural heritage",
-                    "friend"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Wanda Plaza (Putian Chengxiang Store)",
-                "coor": "118.996424,25.418606",
-                "tag": [
-                    "Convenient transportation",
-                    "Easy parking",
-                    "Complete Brand Range",
-                    "Entertainment"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Heping Ancient Town",
-                "coor": "117.302056,27.159916",
-                "tag": [
-                    "History and Culture Enthusiast",
-                    "Ancient Architectural Complex",
-                    "family",
-                    "Cultural Experience"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Impression Da Hong Pao Wuyi Mountain Live Performance",
-                "coor": "117.978008,27.637862",
-                "tag": [
-                    "360 rotation",
-                    "Night Entertainment",
-                    "family",
-                    "Landscape Live Action"
-                ],
-                "duration": "1-2 hours"
-            }
-        ],
-        "image_path": "2.png"
-    },
-    {
-        "query": "Easy Walking Route in Weihai",
-        "poi_info_list": [
-            {
-                "name": "Weihai Park",
-                "coor": "122.144823,37.465201",
-                "tag": [
-                    "Parent-child",
-                    "Family-friendly",
-                    "Hydrophilic Summer Cooling",
-                    "Free Park"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Happiness Gate Square",
-                "coor": "122.127677,37.501473",
-                "tag": [
-                    "Parent-child",
-                    "Free Zone",
-                    "Feed Seagulls",
-                    "Landmark Building"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Yuehai Park",
-                "coor": "122.161056,37.446979",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Outdoor",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Scenic Viewing Platform No. 3 on Huanhai Road",
-                "coor": "122.156997,37.540752",
-                "tag": [
-                    "270-degree view",
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Jianguzui",
-                "coor": "122.166209,37.535642",
-                "tag": [
-                    "Fewer People, Beautiful Scenery",
-                    "Free Attractions",
-                    "Urban Exploration",
-                    "young people"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Weihai Park Painting in Painting Sculpture",
-                "coor": "122.14706,37.460467",
-                "tag": [
-                    "Parent-Child Leisure",
-                    "High foot traffic",
-                    "Free Attractions",
-                    "Commercial Photography"
-                ],
-                "duration": "0.5-1 hour"
-            },
-            {
-                "name": "Golden Beach Seaside Resort",
-                "coor": "122.071783,37.534318",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Torch Eight Street",
-                "coor": "122.030731,37.524534",
-                "tag": [
-                    "citywalk",
-                    "Fewer People, Beautiful Scenery",
-                    "Free to Play",
-                    "Anime Scene"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Seaside Park",
-                "coor": "122.160956,37.436624",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Jinhaiwan Pier",
-                "coor": "122.051763,37.535142",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Parent-Child Outdoor",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Weihai International Seaside Bathing Beach",
-                "coor": "122.042007,37.527536",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Popular Attractions",
-                    "Free Admission"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "WeGo Plaza",
-                "coor": "122.123132,37.504624",
-                "tag": [
-                    "Eat, Drink, Play, Fun",
-                    "Landmark Building",
-                    "The night view is enchanting.",
-                    "Entertainment"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Xiaoshi Island Scenic Area",
-                "coor": "122.016806,37.525684",
-                "tag": [
-                    "3A Scenic Area",
-                    "citywalk",
-                    "Parent-child",
-                    "Parent-Child Study Tour"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Cat Head Mountain",
-                "coor": "122.148132,37.555523",
-                "tag": [
-                    "Parent-child",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Attractions",
-                    "Pet Friendly"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Liugong Island Scenic Area",
-                "coor": "122.190069,37.504524",
-                "tag": [
-                    "5A Scenic Area",
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "historically significant"
-                ],
-                "duration": "0.5-1 day"
-            },
-            {
-                "name": "Kowloon Bay Park",
-                "coor": "122.167802,37.431232",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Parent-Child Outdoor",
-                    "Hydrophilic Summer Cooling"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Cat Head Mountain No. 2 Viewing Platform",
-                "coor": "122.159908,37.538202",
-                "tag": [
-                    "citywalk",
-                    "Family Trip",
-                    "Off-the-beaten-path attractions",
-                    "Cost-effective"
-                ],
-                "duration": "1-3 hours"
-            }
-        ],
-        "image_path": "3.png"
-    },
-    {
-        "query": "What are some suitable family-friendly sea-tripping itineraries around Weihai in July?",
-        "poi_info_list": [
-            {
-                "name": "Weihai Park",
-                "coor": "122.144823,37.465201",
-                "tag": [
-                    "Parent-child",
-                    "Family-friendly",
-                    "Hydrophilic Summer Cooling",
-                    "Free Park"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Yuehai Park",
-                "coor": "122.161056,37.446979",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Outdoor",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Jinhaiwan Pier",
-                "coor": "122.051763,37.535142",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Parent-Child Outdoor",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Xiaoshi Island Scenic Area",
-                "coor": "122.016806,37.525684",
-                "tag": [
-                    "3A Scenic Area",
-                    "citywalk",
-                    "Parent-child",
-                    "Parent-Child Study Tour"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Kowloon Bay Park",
-                "coor": "122.167802,37.431232",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Parent-Child Outdoor",
-                    "Hydrophilic Summer Cooling"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Seaside Park",
-                "coor": "122.160956,37.436624",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Seaside Road",
-                "coor": "121.894083,36.986478",
-                "tag": [
-                    "Parent-child",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Parking",
-                    "Thousand Mile Mountain and Sea Highway"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Weihai International Seaside Bathing Beach",
-                "coor": "122.042007,37.527536",
-                "tag": [
-                    "citywalk",
-                    "Parent-child",
-                    "Popular Attractions",
-                    "Free Admission"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Beachcombing Beach",
-                "coor": "122.464464,37.100785",
-                "tag": [
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "West Mountain Sea Chasing at Shuangdao",
-                "coor": "121.969673,37.465709",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery",
-                    "Leisure Walk"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Rongcheng Dongchu Island Scenic Area",
-                "coor": "122.559526,37.038961",
-                "tag": [
-                    "Parent-child",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission",
-                    "Rustic and Natural"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Naxianghai Scenic Area - Jimi Island",
-                "coor": "122.485662,37.449878",
-                "tag": [
-                    "Day Trip",
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Swan Seaview Scenic Area at Yandunjiao",
-                "coor": "122.567295,37.294121",
-                "tag": [
-                    "Country Walk",
-                    "Parent-child",
-                    "Harmony Between Humans and Birds",
-                    "Free Attractions"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Chengshan Happy Sea Scenic Area",
-                "coor": "122.463725,37.09366",
-                "tag": [
-                    "Parent-child",
-                    "Free Attraction",
-                    "family",
-                    "Couple"
-                ],
-                "duration": "Half Day to One Day"
-            },
-            {
-                "name": "Naxianghai Diamond Beach Bathing Place",
-                "coor": "122.415116,37.408706",
-                "tag": [
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Naxianghai National 4A-Level Scenic Area",
-                "coor": "122.415268,37.404053",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission"
-                ],
-                "duration": "2-6 hours"
-            },
-            {
-                "name": "Rongcheng Swan National Nature Reserve",
-                "coor": "122.578328,37.361954",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Harmony Between Humans and Birds",
-                    "Free Admission"
-                ],
-                "duration": "3-4 hours"
-            },
-            {
-                "name": "Xixiakou Shendiaoshan Wildlife World",
-                "coor": "122.632754,37.416626",
-                "tag": [
-                    "Theme Performance",
-                    "Highly Interactive",
-                    "Parent-child",
-                    "Parent-Child Study Tour"
-                ],
-                "duration": "4-6 hours"
-            },
-            {
-                "name": "The Stranded Giant Ship Bruweis",
-                "coor": "122.552146,37.399274",
-                "tag": [
-                    "citywalk",
-                    "Light and Shadow Show",
-                    "Free Admission",
-                    "Feed Seagulls"
-                ],
-                "duration": "1-3 hours"
-            }
-        ],
-        "image_path": "4.png"
-    },
-    {
         "query": "Photo Tour Itinerary in Haikou at 4 PM",
         "poi_info_list": [
             {
@@ -1304,233 +223,211 @@
                 "duration": "2-4 hours"
             }
         ],
-        "image_path": "5.png"
+        "image_path": "0.png"
     },
     {
-        "query": "What are the suitable self-driving routes around Qilian Grassland?",
+        "query": "Tour Route of Tiananmen Square",
         "poi_info_list": [
             {
-                "name": "Arou Grand Monastery",
-                "coor": "100.452684,38.064594",
+                "name": "National Convention Center",
+                "coor": "116.389432,40.002901",
                 "tag": [
-                    "Short trips",
-                    "Tranquil and peaceful",
-                    "Photo Check-in",
-                    "Cultural Experience"
+                    "Convenient transportation",
+                    "Parent-Child Study Tour",
+                    "Conference and Exhibition",
+                    "Businessperson"
                 ],
-                "duration": "1-2 hours"
+                "duration": "1-3 hours"
             },
             {
-                "name": "Ice Valley Forest",
-                "coor": "100.19463,38.122409",
+                "name": "National Stadium",
+                "coor": "116.395784,39.99333",
                 "tag": [
+                    "Convenient transportation",
                     "Parent-child",
-                    "Free Attractions",
-                    "Primeval Forest",
-                    "Off-the-beaten-path attractions"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Zhuo'er Mountain Scenic Area",
-                "coor": "100.275949,38.183355",
-                "tag": [
-                    "4A Scenic Area",
-                    "Eastern Little Switzerland",
-                    "Danxia Landform",
-                    "Parent-Child Outdoor"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Qilian Mountain Grassland Scenic Area",
-                "coor": "100.946713,37.959184",
-                "tag": [
-                    "family",
-                    "Archery",
-                    "Couple",
-                    "photograph"
-                ],
-                "duration": "2-4 hours"
-            },
-            {
-                "name": "Qilian Tianjing Mountain · Lunbuxiaguo Tourist Scenic Area",
-                "coor": "100.302329,38.201202",
-                "tag": [
-                    "Fewer People, Beautiful Scenery",
-                    "Couple",
-                    "Outdoor Activities",
-                    "Cultural Experience"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Datongshu Mountain Pass",
-                "coor": "100.240495,38.014981",
-                "tag": [
-                    "Free Attractions",
-                    "Hiking",
-                    "Photography Enthusiast",
-                    "Altitude 4120 meters"
+                    "Sporting Event",
+                    "Landmark Viewing"
                 ],
                 "duration": "1-3 hours"
             },
             {
-                "name": "Ebao Ancient City Ruins Park",
-                "coor": "100.937532,37.968441",
+                "name": "798·751 Park",
+                "coor": "116.494784,39.985063",
                 "tag": [
-                    "History and Culture",
-                    "family",
-                    "Couple",
-                    "Photo Check-in"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Gangshika Snow Peak",
-                "coor": "101.451181,37.68401",
-                "tag": [
-                    "Northern Scenery",
-                    "Hiking",
-                    "Outdoor Adventurer",
-                    "mountaineering"
-                ],
-                "duration": "1 day"
-            },
-            {
-                "name": "Dabanshan Viewing Platform",
-                "coor": "101.414021,37.378676",
-                "tag": [
-                    "family",
-                    "Photography",
-                    "Photography Enthusiast",
-                    "Sea of Rapeseed Flowers"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Dabanshan",
-                "coor": "101.401915,37.352137",
-                "tag": [
-                    "Main Roadway",
-                    "Sea of Rapeseed Flowers",
-                    "Nature Enthusiast",
-                    "road trip enthusiast"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Zhaobi Mountain Scenic Area",
-                "coor": "101.65124,37.352103",
-                "tag": [
-                    "Six Wonders",
-                    "family",
-                    "Off-the-beaten-path attractions",
-                    "Couple"
+                    "citywalk",
+                    "Parent-Child Family",
+                    "Parent-Child Study Tour",
+                    "Free Admission"
                 ],
                 "duration": "3-4 hours"
             },
             {
-                "name": "Menyuan County Hundred-Mile Rapeseed Flower Sea Scenic Area Hongshan (1314) Viewing Platform",
-                "coor": "101.41681,37.50177",
+                "name": "Jingshan Park",
+                "coor": "116.396551,39.925875",
                 "tag": [
-                    "For a Lifetime",
-                    "family",
-                    "Hiking",
-                    "Couple"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Rapeseed Flower Viewing Platform",
-                "coor": "101.440456,37.47537",
-                "tag": [
-                    "Free Parking",
-                    "family",
-                    "Couple",
-                    "photograph"
+                    "citywalk",
+                    "The Pinnacle of the Central Axis",
+                    "Parent-child",
+                    "Overlooking the Forbidden City"
                 ],
                 "duration": "1-3 hours"
             },
             {
-                "name": "Gangshika Colorful Ice Waterfall",
-                "coor": "101.44881,37.679221",
+                "name": "Qianmen Street",
+                "coor": "116.403895,39.896152",
                 "tag": [
-                    "Rainbow Icefall",
-                    "Free Attractions",
-                    "Off-the-beaten-path attractions",
-                    "Hiking and Mountaineering"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Fairy Bay Scenic Area",
-                "coor": "100.116657,37.196912",
-                "tag": [
-                    "Embrace Nature",
-                    "family",
-                    "Hiking",
-                    "Couple"
-                ],
-                "duration": "3 hours"
-            },
-            {
-                "name": "Qinghai Lake Cliff",
-                "coor": "99.831149,37.197137",
-                "tag": [
-                    "family",
-                    "Off-the-beaten-path attractions",
-                    "Couple",
-                    "Outdoor Activities"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "West Huanhu Road",
-                "coor": "99.756731,37.110501",
-                "tag": [
-                    "Photography",
-                    "Photography Enthusiast",
-                    "Sunrise Good Place",
-                    "Watch the Sunrise"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Ga Xiao Highway",
-                "coor": "100.244812,37.453453",
-                "tag": [
-                    "Fewer People, Beautiful Scenery",
-                    "Photography Enthusiast",
-                    "Nature Sightseeing",
-                    "self-driving experience"
+                    "citywalk",
+                    "Central Axis Heritage",
+                    "Beijing Flavor",
+                    "Popular Attractions"
                 ],
                 "duration": "2-4 hours"
             },
             {
-                "name": "Shengquan Bay Ecological Experience Zone",
-                "coor": "99.828189,37.213273",
+                "name": "Yonghe Temple",
+                "coor": "116.417296,39.947239",
                 "tag": [
-                    "family",
-                    "Cost-effective",
-                    "Couple",
-                    "Outdoor Experience"
+                    "citywalk",
+                    "Purify the Mind",
+                    "Historical Heritage",
+                    "student"
                 ],
-                "duration": "2-4 hours"
+                "duration": "1-3 hours"
             },
             {
-                "name": "Quanjixiang Fish Viewing Platform",
-                "coor": "99.900956,37.273271",
+                "name": "Nanluoguxiang",
+                "coor": "116.402394,39.937182",
                 "tag": [
+                    "Citywalk",
+                    "Parent-Child Study Tour",
                     "Popular Attractions",
-                    "Free Attractions",
-                    "family",
-                    "Couple"
+                    "Historical Heritage"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Wangfujing Pedestrian Street",
+                "coor": "116.41242,39.913399",
+                "tag": [
+                    "citywalk",
+                    "Convenient transportation",
+                    "Fusion of Ancient and Modern",
+                    "Landmark Building"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Tiananmen",
+                "coor": "116.397463,39.909187",
+                "tag": [
+                    "Historical Heritage",
+                    "Landmark Building",
+                    "student",
+                    "family"
                 ],
                 "duration": "1-2 hours"
+            },
+            {
+                "name": "Drum Tower",
+                "coor": "116.395937,39.940781",
+                "tag": [
+                    "Citywalk",
+                    "Convenient transportation",
+                    "Strong Beijing Flavor",
+                    "Historical Building"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Beijing Zoo",
+                "coor": "116.336701,39.942105",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Animal Affinity",
+                    "Many animal species"
+                ],
+                "duration": "3-5 hours"
+            },
+            {
+                "name": "Fragrant Hills Park",
+                "coor": "116.188746,39.990107",
+                "tag": [
+                    "4A Scenic Area",
+                    "Leisure Walk",
+                    "Natural Oxygen Bar",
+                    "family"
+                ],
+                "duration": "3-5 hours"
+            },
+            {
+                "name": "Old Summer Palace Ruins Park",
+                "coor": "116.30096,40.008759",
+                "tag": [
+                    "5A Scenic Area",
+                    "Parent-child",
+                    "Embrace Nature",
+                    "Fewer People, Beautiful Scenery"
+                ],
+                "duration": "2-5 hours"
+            },
+            {
+                "name": "Summer Palace",
+                "coor": "116.275179,39.999617",
+                "tag": [
+                    "5A Scenic Area",
+                    "World Heritage",
+                    "Four Great Gardens of China",
+                    "Parent-child"
+                ],
+                "duration": "3-6 hours"
+            },
+            {
+                "name": "Tiananmen Square",
+                "coor": "116.397755,39.903182",
+                "tag": [
+                    "Parent-child",
+                    "Historical Heritage",
+                    "Visit Historical Buildings",
+                    "family"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Shichahai",
+                "coor": "116.385121,39.941893",
+                "tag": [
+                    "Citywalk",
+                    "Convenient transportation",
+                    "Embrace Nature",
+                    "Popular Attractions"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Peking University",
+                "coor": "116.310918,39.992873",
+                "tag": [
+                    "citywalk",
+                    "Leisure Walk",
+                    "Free Admission",
+                    "Historical Heritage"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "The Palace Museum",
+                "coor": "116.397029,39.917839",
+                "tag": [
+                    "5A Scenic Area",
+                    "citywalk",
+                    "Day Trip",
+                    "World Cultural Heritage"
+                ],
+                "duration": "4-6 hours"
             }
         ],
-        "image_path": "6.png"
+        "image_path": "1.png"
     },
     {
         "query": "2-kilometer city walk route in Wuhan",
@@ -1756,65 +653,677 @@
                 "duration": "2-3 hours"
             }
         ],
-        "image_path": "7.png"
+        "image_path": "2.png"
     },
     {
-        "query": "Tour Route of Tiananmen Square",
+        "query": "What are some suitable family-friendly sea-tripping itineraries around Weihai in July?",
         "poi_info_list": [
             {
-                "name": "National Convention Center",
-                "coor": "116.389432,40.002901",
+                "name": "Weihai Park",
+                "coor": "122.144823,37.465201",
                 "tag": [
-                    "Convenient transportation",
-                    "Parent-Child Study Tour",
-                    "Conference and Exhibition",
-                    "Businessperson"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "National Stadium",
-                "coor": "116.395784,39.99333",
-                "tag": [
-                    "Convenient transportation",
                     "Parent-child",
-                    "Sporting Event",
-                    "Landmark Viewing"
+                    "Family-friendly",
+                    "Hydrophilic Summer Cooling",
+                    "Free Park"
                 ],
                 "duration": "1-3 hours"
             },
             {
-                "name": "798·751 Park",
-                "coor": "116.494784,39.985063",
+                "name": "Yuehai Park",
+                "coor": "122.161056,37.446979",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Outdoor",
+                    "Hydrophilic Summer Cooling",
+                    "Fewer People, Beautiful Scenery"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Jinhaiwan Pier",
+                "coor": "122.051763,37.535142",
                 "tag": [
                     "citywalk",
-                    "Parent-Child Family",
+                    "Parent-child",
+                    "Parent-Child Outdoor",
+                    "Fewer People, Beautiful Scenery"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Xiaoshi Island Scenic Area",
+                "coor": "122.016806,37.525684",
+                "tag": [
+                    "3A Scenic Area",
+                    "citywalk",
+                    "Parent-child",
+                    "Parent-Child Study Tour"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Kowloon Bay Park",
+                "coor": "122.167802,37.431232",
+                "tag": [
+                    "citywalk",
+                    "Parent-child",
+                    "Parent-Child Outdoor",
+                    "Hydrophilic Summer Cooling"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Seaside Park",
+                "coor": "122.160956,37.436624",
+                "tag": [
+                    "citywalk",
+                    "Parent-child",
+                    "Hydrophilic Summer Cooling",
+                    "Fewer People, Beautiful Scenery"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Seaside Road",
+                "coor": "121.894083,36.986478",
+                "tag": [
+                    "Parent-child",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Parking",
+                    "Thousand Mile Mountain and Sea Highway"
+                ],
+                "duration": "3-5 hours"
+            },
+            {
+                "name": "Weihai International Seaside Bathing Beach",
+                "coor": "122.042007,37.527536",
+                "tag": [
+                    "citywalk",
+                    "Parent-child",
+                    "Popular Attractions",
+                    "Free Admission"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Beachcombing Beach",
+                "coor": "122.464464,37.100785",
+                "tag": [
+                    "Parent-child",
+                    "Hydrophilic Summer Cooling",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "West Mountain Sea Chasing at Shuangdao",
+                "coor": "121.969673,37.465709",
+                "tag": [
+                    "Parent-child",
                     "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery",
+                    "Leisure Walk"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Rongcheng Dongchu Island Scenic Area",
+                "coor": "122.559526,37.038961",
+                "tag": [
+                    "Parent-child",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission",
+                    "Rustic and Natural"
+                ],
+                "duration": "3-5 hours"
+            },
+            {
+                "name": "Naxianghai Scenic Area - Jimi Island",
+                "coor": "122.485662,37.449878",
+                "tag": [
+                    "Day Trip",
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Swan Seaview Scenic Area at Yandunjiao",
+                "coor": "122.567295,37.294121",
+                "tag": [
+                    "Country Walk",
+                    "Parent-child",
+                    "Harmony Between Humans and Birds",
+                    "Free Attractions"
+                ],
+                "duration": "3-5 hours"
+            },
+            {
+                "name": "Chengshan Happy Sea Scenic Area",
+                "coor": "122.463725,37.09366",
+                "tag": [
+                    "Parent-child",
+                    "Free Attraction",
+                    "family",
+                    "Couple"
+                ],
+                "duration": "Half Day to One Day"
+            },
+            {
+                "name": "Naxianghai Diamond Beach Bathing Place",
+                "coor": "122.415116,37.408706",
+                "tag": [
+                    "Parent-child",
+                    "Hydrophilic Summer Cooling",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Naxianghai National 4A-Level Scenic Area",
+                "coor": "122.415268,37.404053",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission"
+                ],
+                "duration": "2-6 hours"
+            },
+            {
+                "name": "Rongcheng Swan National Nature Reserve",
+                "coor": "122.578328,37.361954",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Harmony Between Humans and Birds",
                     "Free Admission"
                 ],
                 "duration": "3-4 hours"
             },
             {
-                "name": "Jingshan Park",
-                "coor": "116.396551,39.925875",
+                "name": "Xixiakou Shendiaoshan Wildlife World",
+                "coor": "122.632754,37.416626",
+                "tag": [
+                    "Theme Performance",
+                    "Highly Interactive",
+                    "Parent-child",
+                    "Parent-Child Study Tour"
+                ],
+                "duration": "4-6 hours"
+            },
+            {
+                "name": "The Stranded Giant Ship Bruweis",
+                "coor": "122.552146,37.399274",
                 "tag": [
                     "citywalk",
-                    "The Pinnacle of the Central Axis",
+                    "Light and Shadow Show",
+                    "Free Admission",
+                    "Feed Seagulls"
+                ],
+                "duration": "1-3 hours"
+            }
+        ],
+        "image_path": "3.png"
+    },
+    {
+        "query": "What are some quiet walking routes in Qingdao city suitable for a peaceful experience?",
+        "poi_info_list": [
+            {
+                "name": "Former Site of Marquis Hotel",
+                "coor": "120.320413,36.063733",
+                "tag": [
+                    "Not Open to the Public",
+                    "Free Admission",
+                    "Urban Exploration",
+                    "Urban Explorer"
+                ],
+                "duration": "0-1 hour"
+            },
+            {
+                "name": "Victoria Peak",
+                "coor": "120.359331,36.065367",
+                "tag": [
+                    "citywalk",
                     "Parent-child",
-                    "Overlooking the Forbidden City"
+                    "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery"
+                ],
+                "duration": "3-4 hours"
+            },
+            {
+                "name": "Beechwood Park",
+                "coor": "120.356988,36.070487",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Embrace Nature",
+                    "Fewer People, Beautiful Scenery"
                 ],
                 "duration": "1-3 hours"
             },
             {
-                "name": "Qianmen Street",
-                "coor": "116.403895,39.896152",
+                "name": "Former Site of the British Consulate General Residence",
+                "coor": "120.360258,36.051095",
+                "tag": [
+                    "Listening to the Waves by the Sea",
+                    "Free Admission",
+                    "History Enthusiast",
+                    "Urban Exploration"
+                ],
+                "duration": "0.5-1 hour"
+            },
+            {
+                "name": "Qingdao Coastal Tourism Walkway",
+                "coor": "120.360082,36.050058",
+                "tag": [
+                    "Hydrophilic Summer Cooling",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission",
+                    "Urban Exploration"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Former German Governor's Residence in Qingdao",
+                "coor": "120.324548,36.064927",
+                "tag": [
+                    "History Enthusiast",
+                    "Landmark Building",
+                    "Urban Exploration",
+                    "Urban Explorer"
+                ],
+                "duration": "0.5-1 hour"
+            },
+            {
+                "name": "Lu Xun Park",
+                "coor": "120.333117,36.055007",
                 "tag": [
                     "citywalk",
-                    "Central Axis Heritage",
-                    "Beijing Flavor",
+                    "Parent-child",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Sea View"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Radar Mountain",
+                "coor": "120.36838,36.047634",
+                "tag": [
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission",
+                    "Military Relics",
+                    "Pristine Coast"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Observatory Hill Park - Benchmark Origin",
+                "coor": "120.326819,36.069981",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Attractions"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Street of Former Residences of Cultural Celebrities",
+                "coor": "120.338531,36.058699",
+                "tag": [
+                    "citywalk",
+                    "Parent-Child Study Tour",
+                    "Close to mountains and near water",
+                    "Free Admission"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Fushan Forest Park Ning Le Square",
+                "coor": "120.414307,36.081887",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery",
+                    "Child-Friendly"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Signal Hill",
+                "coor": "120.330961,36.066163",
+                "tag": [
+                    "360-degree view",
+                    "Parent-child",
+                    "Free Admission",
+                    "Urban Exploration"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Baguan Mountain",
+                "coor": "120.339993,36.063043",
+                "tag": [
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission",
+                    "Urban Exploration",
+                    "student"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Juyongguan Road Boardwalk",
+                "coor": "120.352421,36.05223",
+                "tag": [
+                    "citywalk",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission",
+                    "student"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Zhanqiao Scenic Area",
+                "coor": "120.3193,36.061736",
+                "tag": [
+                    "Parent-child",
+                    "Human-Seagull Interaction",
+                    "Free Admission",
+                    "Historical Heritage"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "View of the Harbor Pavilion",
+                "coor": "120.338575,36.078282",
+                "tag": [
+                    "Historical Atmosphere",
+                    "Urban Exploration",
+                    "The night view is enchanting.",
+                    "family"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Jiading Mountain",
+                "coor": "120.37328,36.112056",
+                "tag": [
+                    "Parent-child",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission",
+                    "Historical Mountain"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Tai Liu Road",
+                "coor": "120.385579,36.108243",
+                "tag": [
+                    "Historical Visit",
+                    "History Enthusiast",
+                    "Historical Site",
+                    "Urban Arterial Road"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Fushan Greenway",
+                "coor": "120.409532,36.092302",
+                "tag": [
+                    "Step by Step, Scene by Scene",
+                    "Parent-child",
+                    "Hydrophilic Summer Cooling",
+                    "Fewer People, Beautiful Scenery"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Reservoir Hill",
+                "coor": "120.337726,36.078494",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery",
+                    "Yuanxiao Mountain Festival"
+                ],
+                "duration": "1-2 hours"
+            }
+        ],
+        "image_path": "4.png"
+    },
+    {
+        "query": "Shanghai Weekend Compact Travel Guide",
+        "poi_info_list": [
+            {
+                "name": "Waibaidu Bridge",
+                "coor": "121.49006,31.242896",
+                "tag": [
+                    "Free Attractions",
+                    "Landmark Building",
+                    "Night View观赏",
+                    "The night view is enchanting."
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Nanjing Road Pedestrian Street",
+                "coor": "121.479494,31.235983",
+                "tag": [
+                    "citywalk",
+                    "China's First Commercial Street",
+                    "Historical Building",
+                    "Landmark Building"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Oriental Pearl Radio & TV Tower",
+                "coor": "121.499718,31.239703",
+                "tag": [
+                    "5A Scenic Area",
+                    "VR Roller Coaster",
+                    "Parent-child",
+                    "Popular Attractions"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "The Bund",
+                "coor": "121.492127,31.233516",
+                "tag": [
+                    "citywalk",
+                    "International Architecture",
+                    "Parent-child",
+                    "Popular Attractions"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Wukang Road Historic and Cultural Street",
+                "coor": "121.43993,31.207255",
+                "tag": [
+                    "citywalk",
+                    "Parent-child",
+                    "Historical Building",
+                    "Former Residence of a Celebrity"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "1933 Old Millfun",
+                "coor": "121.491884,31.254559",
+                "tag": [
+                    "citywalk",
+                    "Convenient transportation",
+                    "Free Attractions",
+                    "Historical Heritage"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Shanghai People's Square",
+                "coor": "121.475213,31.228827",
+                "tag": [
+                    "Transport Hub",
+                    "Parent-child",
+                    "Leisure Walk",
+                    "Free Attractions"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Anfu Road",
+                "coor": "121.444314,31.214156",
+                "tag": [
+                    "CityWalk",
+                    "Historic District",
+                    "young people",
+                    "Photo Check-in"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Shanghai Tianzifang",
+                "coor": "121.468662,31.208197",
+                "tag": [
+                    "Petty Bourgeois Sentiment",
+                    "Couple",
+                    "Photo Check-in",
+                    "Bohemian"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Shanghai Tower",
+                "coor": "121.505366,31.23351",
+                "tag": [
+                    "Cloud View",
+                    "Parent-child",
+                    "Landmark Building",
+                    "Urban Exploration"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Shanghai Museum (People's Square Branch)",
+                "coor": "121.475497,31.228234",
+                "tag": [
+                    "citywalk",
+                    "Interactive Experience",
+                    "Convenient transportation",
+                    "Parent-child"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Jing'an Temple",
+                "coor": "121.44532,31.223505",
+                "tag": [
+                    "Historical Heritage",
+                    "The night view is enchanting.",
+                    "family",
+                    "Couple"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Shanghai Gongqing Forest Park",
+                "coor": "121.551787,31.318956",
+                "tag": [
+                    "4A Scenic Area",
+                    "Parent-child",
+                    "Free Admission",
+                    "Rowing"
+                ],
+                "duration": "3-6 hours"
+            },
+            {
+                "name": "Shanghai Xintiandi",
+                "coor": "121.474465,31.220484",
+                "tag": [
+                    "citywalk",
+                    "Chinese-Western Fusion",
+                    "Parent-child",
                     "Popular Attractions"
                 ],
                 "duration": "2-4 hours"
+            },
+            {
+                "name": "Shanghai Museum (East Wing)",
+                "coor": "121.538745,31.219913",
+                "tag": [
+                    "Interactive Experience",
+                    "Convenient transportation",
+                    "Parent-child",
+                    "Parent-Child Study Tour"
+                ],
+                "duration": "4-6 hours"
+            },
+            {
+                "name": "Shanghai Natural History Museum",
+                "coor": "121.462672,31.235021",
+                "tag": [
+                    "Interactive Experience",
+                    "Parent-Child Family",
+                    "student",
+                    "Architectural Aesthetics"
+                ],
+                "duration": "3-5 hours"
+            },
+            {
+                "name": "Pudong Art Museum",
+                "coor": "121.49631,31.238115",
+                "tag": [
+                    "Parent-Child Study Tour",
+                    "Urban Exploration",
+                    "The night view is enchanting.",
+                    "student"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Shanghai Zoo",
+                "coor": "121.363009,31.193277",
+                "tag": [
+                    "4A Scenic Area",
+                    "Convenient transportation",
+                    "Parent-child",
+                    "Parent-Child Study Tour"
+                ],
+                "duration": "3-5 hours"
+            }
+        ],
+        "image_path": "5.png"
+    },
+    {
+        "query": "Beijing Summer Hutong and Sunset Stroll Route",
+        "poi_info_list": [
+            {
+                "name": "Great Leap Brewing (Doujiao Hutong)",
+                "coor": "116.399402,39.937359",
+                "tag": [
+                    "Leisure Activities",
+                    "Urban Exploration",
+                    "young people",
+                    "Cost-effective"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Fangjia Hutong",
+                "coor": "116.412041,39.944133",
+                "tag": [
+                    "citywalk",
+                    "Time-honored",
+                    "Historical Exploration",
+                    "quiet environment"
+                ],
+                "duration": "1-2 hours"
             },
             {
                 "name": "Yonghe Temple",
@@ -1828,6 +1337,50 @@
                 "duration": "1-3 hours"
             },
             {
+                "name": "Wudaoying Hutong",
+                "coor": "116.408701,39.948536",
+                "tag": [
+                    "Convenient transportation",
+                    "Leisurely Stroll",
+                    "Free Attractions",
+                    "Couple"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Shijia Hutong",
+                "coor": "116.422344,39.918419",
+                "tag": [
+                    "Free Admission",
+                    "History and Culture Enthusiast",
+                    "Historical Accumulation",
+                    "Former Residence of a Celebrity"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Xi Zong Bu Hutong",
+                "coor": "116.422066,39.912101",
+                "tag": [
+                    "Historical Heritage",
+                    "Ancient and Modern Together",
+                    "Urban Exploration",
+                    "Photo Check-in"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Dongsi Hutong Museum",
+                "coor": "116.420304,39.92739",
+                "tag": [
+                    "citywalk",
+                    "Parent-child",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission"
+                ],
+                "duration": "0.5-1 hour"
+            },
+            {
                 "name": "Nanluoguxiang",
                 "coor": "116.402394,39.937182",
                 "tag": [
@@ -1835,6 +1388,50 @@
                     "Parent-Child Study Tour",
                     "Popular Attractions",
                     "Historical Heritage"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Drum Tower",
+                "coor": "116.395937,39.940781",
+                "tag": [
+                    "Citywalk",
+                    "Convenient transportation",
+                    "Strong Beijing Flavor",
+                    "Historical Building"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Shijia Hutong Museum",
+                "coor": "116.422412,39.918163",
+                "tag": [
+                    "citywalk",
+                    "Parent-child",
+                    "Fewer People, Beautiful Scenery",
+                    "Free Admission"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Lao She Former Residence",
+                "coor": "116.408367,39.91863",
+                "tag": [
+                    "Dan Shi Xiao Yuan",
+                    "Leisure Activities",
+                    "Free Admission",
+                    "History Seeker"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Hanlin Academy (Yonghe Villa Branch)",
+                "coor": "116.412257,39.947341",
+                "tag": [
+                    "Vintage",
+                    "Business Banquet",
+                    "Family Gathering",
+                    "Couple Date"
                 ],
                 "duration": "2-3 hours"
             },
@@ -1850,340 +1447,732 @@
                 "duration": "2-4 hours"
             },
             {
-                "name": "Tiananmen",
-                "coor": "116.397463,39.909187",
-                "tag": [
-                    "Historical Heritage",
-                    "Landmark Building",
-                    "student",
-                    "family"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Drum Tower",
-                "coor": "116.395937,39.940781",
-                "tag": [
-                    "Citywalk",
-                    "Convenient transportation",
-                    "Strong Beijing Flavor",
-                    "Historical Building"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Beijing Zoo",
-                "coor": "116.336701,39.942105",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Animal Affinity",
-                    "Many animal species"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Fragrant Hills Park",
-                "coor": "116.188746,39.990107",
-                "tag": [
-                    "4A Scenic Area",
-                    "Leisure Walk",
-                    "Natural Oxygen Bar",
-                    "family"
-                ],
-                "duration": "3-5 hours"
-            },
-            {
-                "name": "Old Summer Palace Ruins Park",
-                "coor": "116.30096,40.008759",
-                "tag": [
-                    "5A Scenic Area",
-                    "Parent-child",
-                    "Embrace Nature",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "2-5 hours"
-            },
-            {
-                "name": "Summer Palace",
-                "coor": "116.275179,39.999617",
-                "tag": [
-                    "5A Scenic Area",
-                    "World Heritage",
-                    "Four Great Gardens of China",
-                    "Parent-child"
-                ],
-                "duration": "3-6 hours"
-            },
-            {
-                "name": "Tiananmen Square",
-                "coor": "116.397755,39.903182",
-                "tag": [
-                    "Parent-child",
-                    "Historical Heritage",
-                    "Visit Historical Buildings",
-                    "family"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Shichahai",
-                "coor": "116.385121,39.941893",
-                "tag": [
-                    "Citywalk",
-                    "Convenient transportation",
-                    "Embrace Nature",
-                    "Popular Attractions"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Peking University",
-                "coor": "116.310918,39.992873",
+                "name": "Qianmen Street",
+                "coor": "116.403895,39.896152",
                 "tag": [
                     "citywalk",
-                    "Leisure Walk",
-                    "Free Admission",
-                    "Historical Heritage"
+                    "Central Axis Heritage",
+                    "Beijing Flavor",
+                    "Popular Attractions"
                 ],
                 "duration": "2-4 hours"
             },
             {
-                "name": "The Palace Museum",
-                "coor": "116.397029,39.917839",
-                "tag": [
-                    "5A Scenic Area",
-                    "citywalk",
-                    "Day Trip",
-                    "World Cultural Heritage"
-                ],
-                "duration": "4-6 hours"
-            }
-        ],
-        "image_path": "8.png"
-    },
-    {
-        "query": "What are some photogenic jacaranda tour routes in Xichang in April?",
-        "poi_info_list": [
-            {
-                "name": "Aerospace North Road",
-                "coor": "102.247167,27.890509",
+                "name": "Dongjiaomin Lane",
+                "coor": "116.407941,39.902463",
                 "tag": [
                     "citywalk",
-                    "Leisure and Relaxation",
-                    "Historical Heritage",
-                    "family"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Qionghai Park",
-                "coor": "102.27685,27.830829",
-                "tag": [
-                    "Parent-child",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission"
-                ],
-                "duration": "3-8 hours"
-            },
-            {
-                "name": "Moonlight Town",
-                "coor": "102.274323,27.836449",
-                "tag": [
-                    "citywalk",
-                    "Embrace Nature",
-                    "The night view is enchanting.",
-                    "Pet Friendly"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Wenhui Road",
-                "coor": "102.252396,27.883585",
-                "tag": [
-                    "family",
-                    "Couple",
-                    "Photo Check-in",
-                    "Stroll"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Tang Garden",
-                "coor": "102.279828,27.879568",
-                "tag": [
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Ancient-style Architecture",
-                    "Free Admission"
+                    "Free Attractions",
+                    "History Enthusiast",
+                    "Historical Witness"
                 ],
                 "duration": "1-3 hours"
             },
             {
-                "name": "Qionghai National Tourist Resort - Guangfu Temple",
-                "coor": "102.269586,27.831282",
+                "name": "Dashilan, Beijing",
+                "coor": "116.395042,39.895715",
+                "tag": [
+                    "Convenient transportation",
+                    "Ancient Architecture",
+                    "The night view is enchanting.",
+                    "student"
+                ],
+                "duration": "3 hours"
+            },
+            {
+                "name": "Silver Ingot Bridge",
+                "coor": "116.393337,39.938999",
+                "tag": [
+                    "Convenient transportation",
+                    "Free Attractions",
+                    "Beautiful Scenery of Ancient Bridges",
+                    "family"
+                ],
+                "duration": "0.5 hours"
+            },
+            {
+                "name": "Yangmei Zhuxie Street",
+                "coor": "116.390844,39.89528",
+                "tag": [
+                    "citywalk",
+                    "Historical Heritage",
+                    "Pet Friendly",
+                    "family"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Old Beijing Hutong Tour",
+                "coor": "116.389812,39.933775",
+                "tag": [
+                    "Leisure Activities",
+                    "Historical Heritage",
+                    "Urban Exploration",
+                    "family"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "China Overseas Daji Lane",
+                "coor": "116.376405,39.887826",
+                "tag": [
+                    "Convenient transportation",
+                    "Parent-child",
+                    "Semi-open",
+                    "The night view is enchanting."
+                ],
+                "duration": "2-4 hours"
+            }
+        ],
+        "image_path": "6.png"
+    },
+    {
+        "query": "Tour Route of Songshan Lake Scenic Area",
+        "poi_info_list": [
+            {
+                "name": "Songshan Lake Scenic Area - Songshan Lake Sunshine Beach",
+                "coor": "113.887077,22.897256",
                 "tag": [
                     "Parent-child",
                     "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission"
+                    "Free Attractions",
+                    "family"
                 ],
                 "duration": "2-3 hours"
             },
             {
-                "name": "Xichang Moon Lake Park",
-                "coor": "102.242354,27.877431",
+                "name": "Songshan Lake Library",
+                "coor": "113.885844,22.931136",
+                "tag": [
+                    "Parent-Child Study Tour",
+                    "Fewer People, Beautiful Scenery",
+                    "Child-Friendly",
+                    "Free and Fun"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Dongguan University of Technology",
+                "coor": "113.874533,22.902841",
                 "tag": [
                     "citywalk",
-                    "Hydrophilic Summer Cooling",
+                    "Learning Atmosphere",
+                    "student",
+                    "Employment Advantages"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Fishing at the Thatched Cottage",
+                "coor": "113.883819,22.899953",
+                "tag": [
+                    "Parent-child",
+                    "Fishing",
+                    "Pet Friendly",
+                    "friend"
+                ],
+                "duration": "3-5 hours"
+            },
+            {
+                "name": "Vanke Jinyu Plaza",
+                "coor": "113.917749,22.966898",
+                "tag": [
+                    "Loft Design",
+                    "Leisure and Entertainment",
+                    "Metro Property",
+                    "family"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Peach Blossom Island",
+                "coor": "113.89264,22.926832",
+                "tag": [
+                    "Embrace Nature",
                     "Fewer People, Beautiful Scenery",
+                    "Free and Fun",
+                    "family"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Songshan Lake Jafun City",
+                "coor": "113.866404,22.900404",
+                "tag": [
+                    "citywalk",
+                    "Theme Performance",
+                    "Parent-child",
                     "The night view is enchanting."
                 ],
-                "duration": "2-3 hours"
+                "duration": "2-4 hours"
             },
             {
-                "name": "Lushan Forest Park",
-                "coor": "102.272537,27.832596",
+                "name": "Songshan Lake Scenic Area - Misty Rain over Song Lake",
+                "coor": "113.890634,22.915318",
                 "tag": [
-                    "Parent-Child Family",
-                    "Hydrophilic Summer Cooling",
-                    "Like Spring All Year Round",
-                    "Urban Exploration"
-                ],
-                "duration": "2-3 hours"
-            },
-            {
-                "name": "Torch Square",
-                "coor": "102.264472,27.869919",
-                "tag": [
-                    "Leisure Walk",
-                    "Free Attractions",
-                    "The night view is enchanting.",
-                    "Family Tourists"
-                ],
-                "duration": "1-2 hours"
-            },
-            {
-                "name": "Spirit Eagle Temple",
-                "coor": "102.319255,27.791593",
-                "tag": [
+                    "Parent-child",
+                    "Embrace Nature",
                     "Free Admission",
-                    "History and Culture Enthusiast",
-                    "Business Atmosphere",
-                    "Off-the-beaten-path attractions"
+                    "Suitable for all seasons"
+                ],
+                "duration": "3-6 hours"
+            },
+            {
+                "name": "Vanke Li by the Lake",
+                "coor": "113.902243,22.884713",
+                "tag": [
+                    "Theme Performance",
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Leisure and Relaxation"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Yuehe Lake Park",
+                "coor": "113.894367,22.967271",
+                "tag": [
+                    "Convenient Transportation",
+                    "Parent-child",
+                    "Embrace Nature",
+                    "Free Admission"
                 ],
                 "duration": "1-2 hours"
             },
             {
-                "name": "Xingyue Lake Park",
-                "coor": "102.282906,27.869267",
+                "name": "Songshan Lake Scenic Area",
+                "coor": "113.881514,22.894163",
                 "tag": [
-                    "citywalk",
-                    "Parent-Child Study Tour",
-                    "Hydrophilic Summer Cooling",
-                    "Fewer People, Beautiful Scenery"
+                    "Parent-child",
+                    "Free Admission",
+                    "Team Building",
+                    "The night view is enchanting."
                 ],
-                "duration": "2-3 hours"
+                "duration": "3-6 hours"
             },
             {
-                "name": "Dream-seeking Flower Sea Wetland Park",
-                "coor": "102.292569,27.84139",
+                "name": "Songhu Island Campsite",
+                "coor": "113.891782,22.900995",
                 "tag": [
                     "Parent-child",
                     "Free Parking",
-                    "Pet Friendly",
+                    "Fishing",
+                    "Pet Friendly"
+                ],
+                "duration": "4-6 hours"
+            },
+            {
+                "name": "ULAND Songshan Lake Cultural and Art District",
+                "coor": "113.886109,22.922034",
+                "tag": [
+                    "Citywalk",
+                    "Theme Performance",
+                    "Parent-child",
+                    "Parent-Child Study Tour"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Ayi Four Seasons Farm",
+                "coor": "113.915988,22.907584",
+                "tag": [
+                    "Convenient transportation",
+                    "Leisure and Relaxation",
+                    "Team Building",
+                    "family"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Tabebuia Chrysantha Forest",
+                "coor": "113.888886,22.887258",
+                "tag": [
+                    "Parent-child",
+                    "Free and Fun",
+                    "Seasonal Limited",
                     "Couple"
                 ],
                 "duration": "2-4 hours"
             },
             {
-                "name": "Anha Yi Village Immortal Cave Scenic Area",
-                "coor": "102.307854,27.709375",
+                "name": "Dongguan Polytechnic",
+                "coor": "113.856794,22.897559",
                 "tag": [
-                    "4A Scenic Area",
-                    "Parent-child",
-                    "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Jianchang Ancient City",
-                "coor": "102.272687,27.894062",
-                "tag": [
-                    "4A Scenic Area",
-                    "citywalk",
-                    "Free Admission",
-                    "Ancient Tree on City Wall"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Dream Water Village RV Campground",
-                "coor": "102.267028,27.847207",
-                "tag": [
-                    "Parent-child",
-                    "Hydrophilic Activities",
-                    "The night view is enchanting.",
-                    "Pet Friendly"
-                ],
-                "duration": "1-3 hours"
-            },
-            {
-                "name": "Diaoyutai",
-                "coor": "102.270256,27.844407",
-                "tag": [
-                    "citywalk",
-                    "Hydrophilic Summer Cooling",
-                    "Pet Friendly",
-                    "family"
+                    "Leisure Walk",
+                    "Urban Exploration",
+                    "Easy Parking",
+                    "student"
                 ],
                 "duration": "1-2 hours"
             },
             {
-                "name": "Earth Forest",
-                "coor": "102.210364,27.674911",
+                "name": "Songshan Lake Central Park, Dongguan",
+                "coor": "113.87931,22.929985",
+                "tag": [
+                    "Parent-child",
+                    "Hydrophilic Summer Cooling",
+                    "Free to Play",
+                    "Team Building"
+                ],
+                "duration": "0.5-1 hour"
+            },
+            {
+                "name": "Songmushan Cultural Square",
+                "coor": "113.912025,22.897581",
                 "tag": [
                     "Parent-child",
                     "Parent-Child Study Tour",
-                    "Fewer People, Beautiful Scenery",
-                    "Pristine"
+                    "Fitness Enthusiast",
+                    "Free and Fun"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Zhongshuge (ULAND Songshan Lake Cultural and Art Street District Store)",
+                "coor": "113.886123,22.92087",
+                "tag": [
+                    "Parent-Child Study Tour",
+                    "Leisure and Relaxation",
+                    "Free Admission",
+                    "student"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Li Beiling Square",
+                "coor": "113.906739,22.948614",
+                "tag": [
+                    "citywalk",
+                    "Parent-Child Study Tour",
+                    "Parking Difficulty",
+                    "Free and Fun"
+                ],
+                "duration": "1-2 hours"
+            }
+        ],
+        "image_path": "7.png"
+    },
+    {
+        "query": "Classic Itinerary for a Weekend Trip in Changsha",
+        "poi_info_list": [
+            {
+                "name": "Tianxin Pavilion",
+                "coor": "112.981861,28.184754",
+                "tag": [
+                    "4A Scenic Area",
+                    "Parent-child",
+                    "Historical Heritage",
+                    "Ancient City Wall"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Changsha Museum",
+                "coor": "112.980748,28.24194",
+                "tag": [
+                    "AR technology",
+                    "CityWalk",
+                    "Interactive Experience",
+                    "Parent-child"
                 ],
                 "duration": "2-3 hours"
             },
             {
-                "name": "Qionghai Lake",
-                "coor": "102.318129,27.816606",
+                "name": "May 1st Square",
+                "coor": "112.97734,28.1965",
                 "tag": [
-                    "5A Scenic Area",
-                    "Hydrophilic Summer Cooling",
-                    "Winter Sunshine",
-                    "Sichuan Erhai"
+                    "citywalk",
+                    "Convenient transportation",
+                    "Popularity Soaring",
+                    "Historical Heritage"
                 ],
-                "duration": "2-5 hours"
+                "duration": "2-3 hours"
             },
             {
-                "name": "Dashiban Ancient Village",
-                "coor": "102.319683,27.792756",
+                "name": "IFS Changsha by Wharf Holdings",
+                "coor": "112.978726,28.192457",
                 "tag": [
-                    "Leisure Walk",
-                    "Free Tour",
-                    "Ancient Village Architecture",
+                    "Convenient transportation",
+                    "Casual",
+                    "Landmark Building",
+                    "family"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Taiping Old Street Historical and Cultural District",
+                "coor": "112.972071,28.193573",
+                "tag": [
+                    "Citywalk",
+                    "Convenient transportation",
+                    "Crowded",
+                    "Free Admission"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Huangxing South Road Pedestrian Commercial Street",
+                "coor": "112.975908,28.184013",
+                "tag": [
+                    "Convenient transportation",
+                    "Historical Heritage",
+                    "The night view is enchanting.",
+                    "Nightlife"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Du Fu River Pavilion",
+                "coor": "112.968624,28.184442",
+                "tag": [
+                    "Parent-child",
+                    "Ancient-style Architecture",
+                    "Night View观赏",
+                    "The night view is enchanting."
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Wanjiali International Shopping Plaza",
+                "coor": "113.032322,28.189771",
+                "tag": [
+                    "One-stop",
+                    "Convenient transportation",
+                    "Leisure and Entertainment",
+                    "City Check-in"
+                ],
+                "duration": "3-6 hours"
+            },
+            {
+                "name": "Xie Zilong Photography Museum",
+                "coor": "112.947121,28.117792",
+                "tag": [
+                    "Casual",
+                    "Light and Shadow Aesthetics",
+                    "Public Art Gallery",
                     "family"
                 ],
                 "duration": "2-3 hours"
             },
             {
-                "name": "Lizhou Ancient Town",
-                "coor": "102.17687,28.05089",
+                "name": "Pozi Street",
+                "coor": "112.97258,28.190339",
                 "tag": [
-                    "Fewer People, Beautiful Scenery",
-                    "Free Admission",
-                    "History and Culture Enthusiast",
-                    "Authentic"
+                    "Millennium Old Street",
+                    "Prosperous Business",
+                    "Nightlife",
+                    "family"
                 ],
-                "duration": "Half day - 1 day"
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Orange Isle Scenic Area",
+                "coor": "112.963081,28.196505",
+                "tag": [
+                    "5A Scenic Area",
+                    "China's First Continent",
+                    "Parent-child",
+                    "Leisure Activities"
+                ],
+                "duration": "3-4 hours"
+            },
+            {
+                "name": "Changsha Wenheyou",
+                "coor": "112.96966,28.189065",
+                "tag": [
+                    "Taste Delicacies",
+                    "Retro Scene",
+                    "family",
+                    "Couple"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Huangxing Road Pedestrian Street Central Square",
+                "coor": "112.976424,28.188459",
+                "tag": [
+                    "The night view is enchanting.",
+                    "Night Tour",
+                    "family",
+                    "Couple"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Yuelu Mountain Scenic Area",
+                "coor": "112.936104,28.183601",
+                "tag": [
+                    "Parent-child",
+                    "Free Admission",
+                    "Ancient Trees Towering",
+                    "Suitable for all seasons"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Chaozong Street District",
+                "coor": "112.974319,28.202487",
+                "tag": [
+                    "CityWalk",
+                    "Convenient transportation",
+                    "Parent-child",
+                    "Free Admission"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Ancient Kaifu Temple",
+                "coor": "112.97834,28.224436",
+                "tag": [
+                    "Convenient transportation",
+                    "Parent-Child Study Tour",
+                    "Ancient Temple",
+                    "student"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Orange Isle Head",
+                "coor": "112.960521,28.168526",
+                "tag": [
+                    "Free Attractions",
+                    "Direct Subway Access",
+                    "The night view is enchanting.",
+                    "student"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Hunan Agricultural University",
+                "coor": "113.082733,28.180345",
+                "tag": [
+                    "Convenient transportation",
+                    "Parent-Child Study Tour",
+                    "Leisurely Stroll",
+                    "Free Admission"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Hunan Martyrs Park",
+                "coor": "112.996432,28.209521",
+                "tag": [
+                    "Parent-child activities",
+                    "Free Admission",
+                    "Rowing",
+                    "Urban Oxygen Bar"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Hunan University",
+                "coor": "112.945185,28.177932",
+                "tag": [
+                    "citywalk",
+                    "Parent-Child Study Tour",
+                    "Leisure Walk",
+                    "Millennium Academy"
+                ],
+                "duration": "2-3 hours"
+            }
+        ],
+        "image_path": "8.png"
+    },
+    {
+        "query": "One-day Tour of Nanchang",
+        "poi_info_list": [
+            {
+                "name": "Bayi Nanchang Uprising Memorial Tower",
+                "coor": "115.904562,28.672667",
+                "tag": [
+                    "Day Trip",
+                    "Historical Landmark",
+                    "History Enthusiast",
+                    "Fountain Show"
+                ],
+                "duration": "1 hour"
+            },
+            {
+                "name": "Jiangxi Art Museum",
+                "coor": "115.902603,28.673859",
+                "tag": [
+                    "Parent-Child Family",
+                    "Parent-Child Study Tour",
+                    "Free Admission",
+                    "Urban Exploration"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Wanshou Palace",
+                "coor": "115.88804,28.674114",
+                "tag": [
+                    "4A Scenic Area",
+                    "citywalk",
+                    "Parent-child",
+                    "Free Admission"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Nanchang Ship Theme Park",
+                "coor": "115.889225,28.719474",
+                "tag": [
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Military Experience",
+                    "Military Enthusiast"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Dashi Courtyard Food Street",
+                "coor": "115.884265,28.686382",
+                "tag": [
+                    "Authentic Snacks",
+                    "Urban Exploration",
+                    "family",
+                    "Everyday Life"
+                ],
+                "duration": "1-3 hours"
+            },
+            {
+                "name": "Bauhinia Night Market",
+                "coor": "115.833395,28.734362",
+                "tag": [
+                    "Leisure Shopping",
+                    "Parking Anxiety",
+                    "Nightlife Experience",
+                    "student"
+                ],
+                "duration": "2-3 hours"
+            },
+            {
+                "name": "Bayi Square",
+                "coor": "115.904477,28.673856",
+                "tag": [
+                    "Convenient transportation",
+                    "Parent-child",
+                    "Popular Attractions",
+                    "Leisure Walk"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Yangzi Street",
+                "coor": "115.90023,28.673937",
+                "tag": [
+                    "Urban Leisure",
+                    "tourist",
+                    "Affordable prices",
+                    "Gastronomic Exploration"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Nanchang Star Ferris Wheel",
+                "coor": "115.850719,28.656183",
+                "tag": [
+                    "Asia's No. 1",
+                    "Parent-child",
+                    "Night Photography",
+                    "The night view is enchanting."
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Chaoyang Riverfront Park",
+                "coor": "115.848041,28.631974",
+                "tag": [
+                    "Parent-child",
+                    "Free Admission",
+                    "High production rate",
+                    "Four Seasons Scenery"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Hengmao Dream Times Square",
+                "coor": "115.93927,28.672899",
+                "tag": [
+                    "citywalk",
+                    "Eat, Drink, Play, and Enjoy All in One",
+                    "Direct Subway Access",
+                    "Skyline Night View"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Jiangxi Provincial Museum",
+                "coor": "115.881823,28.7059",
+                "tag": [
+                    "citywalk",
+                    "Parent-child",
+                    "Parent-Child Study Tour",
+                    "Free Admission"
+                ],
+                "duration": "3-4 hours"
+            },
+            {
+                "name": "Tengwang Pavilion",
+                "coor": "115.881197,28.681332",
+                "tag": [],
+                "duration": "0-0 hours"
+            },
+            {
+                "name": "Nanchang MixC",
+                "coor": "115.847511,28.655421",
+                "tag": [
+                    "Convenient transportation",
+                    "The night view is enchanting.",
+                    "Entertainment",
+                    "family"
+                ],
+                "duration": "2-4 hours"
+            },
+            {
+                "name": "Rope and Gold Pagoda",
+                "coor": "115.89989,28.660962",
+                "tag": [
+                    "3A Scenic Area",
+                    "citywalk",
+                    "Parent-child",
+                    "Leisure Walk"
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Nanchang Qiushui Square Music Fountain",
+                "coor": "115.86273,28.682634",
+                "tag": [
+                    "Asia's Largest Fountain",
+                    "Parent-child",
+                    "Leisure Walk",
+                    "Free Attractions"
+                ],
+                "duration": "0.5-1 hour"
+            },
+            {
+                "name": "Xinzhou Cultural Plaza",
+                "coor": "115.878952,28.67909",
+                "tag": [
+                    "Convenient transportation",
+                    "Leisure Walk",
+                    "Free Viewing",
+                    "The night view is enchanting."
+                ],
+                "duration": "1-2 hours"
+            },
+            {
+                "name": "Nanchang August 1st Uprising Memorial Museum",
+                "coor": "115.889435,28.67467",
+                "tag": [
+                    "Free Admission",
+                    "historically significant",
+                    "History Enthusiast",
+                    "student"
+                ],
+                "duration": "1-2 hours"
             }
         ],
         "image_path": "9.png"
