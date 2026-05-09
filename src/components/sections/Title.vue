@@ -107,7 +107,7 @@ const buttons = [
   {
     disabled: false,
     name: "Poster",
-    link: '/SMAP/icon/cvpr.png',
+    link: './icon/cvpr.png',
     component: Picture,
   },
 
