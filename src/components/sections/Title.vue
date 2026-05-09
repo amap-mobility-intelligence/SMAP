@@ -105,8 +105,9 @@ const buttons = [
     component: Files,
   },
   {
-    disabled: true,
+    disabled: false,
     name: "Poster",
+    link: '/icon/cvpr.png',
     component: Picture,
   },
   {
