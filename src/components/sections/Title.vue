@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 
 import { ElIcon } from 'element-plus'
-import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@element-plus/icons-vue'
+import { Document, Files, MagicStick, Picture, DataAnalysis } from '@element-plus/icons-vue'
 
 // logo地址，没有则置为""即可
 const logo = ""
@@ -107,15 +107,10 @@ const buttons = [
   {
     disabled: false,
     name: "Poster",
-    link: '/icon/cvpr.png',
+    link: '/SMAP/icon/cvpr.png',
     component: Picture,
   },
-  {
-    disabled: false,
-    name: "Video",
-    link: '/video/Can_AI_See_the_World_.mp4',
-    component: Film,
-  },
+
 ]
 
 </script>
