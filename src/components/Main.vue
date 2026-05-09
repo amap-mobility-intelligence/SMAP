@@ -5,7 +5,6 @@ import Framework from './sections/Framework.vue'
 import Markdown from './sections/Markdown.vue'
 import BibTeX from './sections/BibTeX.vue'
 import Carousel from './sections/Carousel.vue'
-import Video from './sections/Video.vue'
 import ImageSlider from './sections/ImageSlider.vue'
 import ImageSliderInner from './sections/ImageSliderInner.vue'
 import ImageSelector from './sections/ImageSelector.vue'
@@ -28,7 +27,6 @@ export default {
     Markdown,
     BibTeX,
     Carousel,
-    Video,
     ImageSlider,
     ImageSliderInner,
     ImageSelector,
