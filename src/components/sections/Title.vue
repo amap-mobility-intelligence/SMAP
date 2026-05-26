@@ -94,8 +94,9 @@ const emphases = [
 // 提供引导资料链接
 const buttons = [
   {
-    disabled: true,
+    disabled: false,
     name: "Paper",
+    link: "https://cvpr.thecvf.com/virtual/2026/poster/39788",
     component: Document,
   },
   {
