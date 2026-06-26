@@ -96,7 +96,7 @@ const buttons = [
   {
     disabled: false,
     name: "Paper",
-    link: "https://cvpr.thecvf.com/virtual/2026/poster/39788",
+    link: "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SMAP_Semantic_Route_Planning_with_Map-Grounded_Multimodal_Alignment_CVPR_2026_paper.pdf",
     component: Document,
   },
   {
@@ -108,7 +108,7 @@ const buttons = [
   {
     disabled: false,
     name: "Poster",
-    link: './icon/cvpr.png',
+    link: "https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39788.png?t=1778328849.0405874",
     component: Picture,
   },
 
