@@ -3,11 +3,13 @@ export default {
   data() {
     return {
       bibtex: [
-        "@article{junyaohu2023template,",
-        "    title={Academic Project Page Template Vue},",
-        "    author={Hu, Junyao},",
-        "    journal={GitHub},",
-        "    year={2023}",
+        "@InProceedings{Zhang_2026_CVPR,",
+        "    author    = {Zhang, Wenjie and Yang, Chen and Lu, Xin and Wang, Zhen and Liu, Yue and Xi, Bobo and Zhang, Pengbo},",
+        "    title     = {SMAP: Semantic Route Planning with Map-Grounded Multimodal Alignment},",
+        "    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},",
+        "    month     = {June},",
+        "    year      = {2026},",
+        "    pages     = {40108-40118}",
         "}",
       ],
     }

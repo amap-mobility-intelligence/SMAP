@@ -51,4 +51,5 @@ export default {
   <Dataset/>
   <Table/>
   <StudyCase/>
+  <BibTeX/>
 </template>
